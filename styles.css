@@ -1,0 +1,102 @@
+.secondary-color{
+    color:red;
+  }
+  p {
+    position: absolute;
+    left: 8px;
+    top: 41px;
+    font-size:10px; 
+  }
+  #one{
+    position: absolute;
+    left: 210px;
+    top: 40px;
+  }
+  .second{
+    color:red;
+  }
+  .checked {
+    color: orange;
+  }
+  #two{
+    position: absolute;
+    left: 8px;
+    top: 185px;
+    font-size:11px; 
+  }
+  #three{
+    position:absolute;
+    top:210px;
+    font-size:200;
+  }
+  #four{
+    color:red;
+    position:absolute;
+    top:20px;
+    left:152px
+  }
+  table {
+      border-collapse: collapse;    
+  }
+  td, th {
+      
+      padding: 10px;
+  }
+  th:empty {
+      border: 0;
+  }
+  #table tr:nth-child(odd){background:white}
+  #table tr:nth-child(even){background:#edf1ff}
+  #six{
+    color:red;
+    position:absolute;
+    top:20px;
+    left:122px
+  }
+  #five{
+    position:absolute;
+    top:410px;
+    font-size:200;
+  }
+  table1 {
+      border-collapse: collapse;  
+    width:120px;
+  }
+  td, th {
+      width:220px;
+      padding: 10px;
+  }
+  th:empty {
+      border: 0;
+  }
+  #table1 tr:nth-child(odd){background:white}
+  #table1 tr:nth-child(even){background:#edf1ff}
+  .comment {
+          width: 97.5%;
+          height: 100px;
+          padding: 10px;
+          font: 1.4em/1.6em cursive;
+          color: #095484;
+        }
+  #eigth{
+    position: absolute;
+    left: 8px;
+    top: 215px;
+    font-size:15px; 
+  }
+  .button {
+    background-color:	#E8E8E8;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  
+  
+  
+  
+  
